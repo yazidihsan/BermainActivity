@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DongengInteraktif</string>
+    <string name="todo">TODO</string>
+    <string name="masukkan_nama_anda">Masukkan nama anda</string>
+    <string name="mulai">Mulai</string>
+    <string name="key_name">name</string>
+</resources>
